@@ -24,9 +24,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong backgroun
 - **Git**: Version control for collaborative development.
 - **APIs**: Building and consuming RESTful APIs.
 
-## Projects
-- **Project 1**: Description of the project and technologies used.
-- **Project 2**: Description of the project and technologies used.
 
 Feel free to explore my repositories to see more of the work I’ve done!
 
