@@ -28,6 +28,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong backgroun
 Feel free to explore my repositories to see more of the work I’ve done!
 
 ## Contact
-- Email: khieng11@gmail.com
+- Email: khieng11.it@gmail.com
 
 Thanks for checking out my profile! Let's connect and collaborate.
